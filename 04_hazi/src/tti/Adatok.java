@@ -16,6 +16,7 @@ public class Adatok {
 		int suly = sc.nextInt();
 		System.out.println("Adjon meg egy magassagot(meterben): ");
 		double magassag = sc.nextDouble();
+		
 		System.out.println(szem.toString());
 
 	}
